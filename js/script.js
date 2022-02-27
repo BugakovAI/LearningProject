@@ -11,3 +11,4 @@
     }
 
     console.log(pow(5, 0));
+    console.log(pow(2,2));
